@@ -4,6 +4,6 @@ This is a customized version of [T3 Stack](https://create.t3.gg/) project bootst
 
 But with few of the following changes
 
-1. Next.js new experimental app directory enabled
-2. Replaced Discord with Google Login as default next-auth provider.
-3. Without tRPC by default.
+1. Google as default next-auth Oauth provider.
+2. Next Auth : JWT Strategy
+3. Protected Routes Using Middleware
