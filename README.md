@@ -1,5 +1,7 @@
 # Create T3 App Custom Template
 
+![Poster](/poster.png)
+
 This is a customized version of [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
 But with few of the following changes
